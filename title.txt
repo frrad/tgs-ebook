@@ -1,0 +1,5 @@
+---
+title: The Good Student
+author: V. Moody
+language: en-US
+...
